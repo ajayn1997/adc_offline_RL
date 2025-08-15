@@ -1,0 +1,4 @@
+Method,Score
+CQL-Full-Dataset,29.2 ± 3.4
+CQL-Core-Set-20%,25.8 ± 2.9
+Static-ADC-Curriculum,37.8 ± 2.9

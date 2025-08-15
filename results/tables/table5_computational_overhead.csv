@@ -1,0 +1,4 @@
+Method,Total Time (hours),Final Score,Overhead
+Vanilla CQL,5.5,29.2,0%
+Static-ADC-Adv,5.6,37.8,1.8%
+Dynamic-ADC-Adv,6.9,42.1,25.4%
